@@ -1,4 +1,4 @@
-Matrix,Density of matrix,Strenth of Matrix,%Matrix,Density of Reinf 1,Strenth of Reinf1,Reinforcement 1,1(%),Size 1(µm),Density of Reinf 2,Strenth of Reinf2,Reinforcement 2,2(%),Size 2(µm),Stir Speed,Stir time,Mix temp,Mould Preheat,UTS,Porosity,Therotical Density,Exp Density
+Matrix,Matrix_Density,Matrix_Strenth,%Matrix,Density_R1,Strenth_R1,R1,R1%,R1_Size,Density_R2,Strenth_R2,R2,R2%,R2_Size,Stir_Speed,Stir_Time,Mix_Temp,Mould_Preheat,UTS,Porosity,Therotical Density,Exp Density
  AA6061,2.7,115,96,2.09,110,Graphite,4,50,4.5,280,TiB2,0,50,500,8,720,,91.28,0.740740741,2.7,2.68
  AA6061,2.7,115,94,2.09,110,Graphite,4,50,4.5,280,TiB2,2,50,500,8,720,,118.12,0.147112909,2.719,2.715
  AA6061,2.7,115,92,2.09,110,Graphite,4,50,4.5,280,TiB2,4,50,500,8,720,,129.93,0.907441016,2.755,2.73
